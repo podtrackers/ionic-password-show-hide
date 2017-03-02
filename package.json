@@ -1,0 +1,27 @@
+{
+  "name": "ionic-password-show-hide",
+  "version": "1.0.0",
+  "description": "An Ionic AngularJS directive for adding a show/hide button to an input password element.",
+  "main": "dist/ionic-password-show-hide.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/podtrackers/ionic-password-show-hide.git"
+  },
+  "keywords": [
+    "ionic",
+    "angularjs",
+    "password",
+    "show",
+    "hide",
+    "toggle"
+  ],
+  "author": "sw2sonic | sw2hk.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/podtrackers/ionic-password-show-hide/issues"
+  },
+  "homepage": "https://github.com/podtrackers/ionic-password-show-hide#readme"
+}
