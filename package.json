@@ -2,7 +2,10 @@
   "name": "ionic-password-show-hide",
   "version": "1.0.0",
   "description": "An Ionic AngularJS directive for adding a show/hide button to an input password element.",
-  "main": "dist/ionic-password-show-hide.js",
+  "main": [
+    "dist/ionic-password-show-hide.js",
+    "dist/ionic-password-show-hide.css"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
